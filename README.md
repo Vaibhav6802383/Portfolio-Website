@@ -18,10 +18,4 @@ This is my personal portfolio website, designed to showcase my projects, skills,
 - HTML5
 - CSS3
 
-## 🚀 Live Demo
-[Portfolio Link](https://your-netlify-or-vercel-link.com)
 
-## 📸 Screenshot
-> Add your screenshot here  
-```md
-![Portfolio Website](screenshot.png)
